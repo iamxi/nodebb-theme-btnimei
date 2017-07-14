@@ -1,0 +1,20 @@
+{
+  "name": "nodebb-theme-btnimei",
+  "version": "1.0.0",
+  "description": "nodebb theme for btnimei",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamxi/nodebb-theme-btnimei.git"
+  },
+  "keywords": [
+    "nodebb",
+    "theme",
+    "bootstrap"
+  ],
+  "author": "iamxi",
+  "license": "MIT"
+}

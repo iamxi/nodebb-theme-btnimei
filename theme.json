@@ -1,0 +1,8 @@
+{
+    "id": "nodebb-theme-btnimei",
+    "name": "BTNimei",
+    "description": "A nodebb theme for btnimei site",
+    "url": "https://github.com/iamxi/nodebb-theme-btnimei",
+    "screenshot": "screenshot.jpg",
+    "baseTheme": "nodebb-theme-persona"
+}

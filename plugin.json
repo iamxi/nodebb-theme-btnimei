@@ -1,0 +1,7 @@
+{
+    "id": "nodebb-theme-btnimei",
+    "library": "library.js",
+    "scripts": [
+      "lib/persona.js"
+    ]
+}
